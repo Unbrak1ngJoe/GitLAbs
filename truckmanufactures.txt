@@ -4,3 +4,5 @@ Scania
 Wectern Star Trucks
 Mack Trucks
 UD Trucks
+RFW
+Mitsubishi Fuso
