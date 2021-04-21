@@ -8,5 +8,6 @@ RFW
 Mitsubishi Fuso
 MAN
 Gaz
-Garrett
-Astra
+Zastava Trucks 
+ZiL
+KrAZ
