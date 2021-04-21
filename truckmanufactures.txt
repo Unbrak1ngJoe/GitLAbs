@@ -6,3 +6,5 @@ Mack Trucks
 UD Trucks
 RFW
 Mitsubishi Fuso
+MAN
+Gaz
