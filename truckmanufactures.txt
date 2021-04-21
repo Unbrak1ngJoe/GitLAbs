@@ -8,3 +8,6 @@ RFW
 Mitsubishi Fuso
 MAN
 Gaz
+Zastava Trucks 
+ZiL
+KrAZ
