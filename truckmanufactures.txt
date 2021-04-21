@@ -8,3 +8,5 @@ RFW
 Mitsubishi Fuso
 MAN
 Gaz
+Garrett
+Astra
